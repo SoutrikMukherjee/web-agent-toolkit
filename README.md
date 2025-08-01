@@ -60,4 +60,4 @@ Here are a few ideas to extend or adapt this skeleton to real research on Browse
 
 ## Disclaimer
 
-This repository is a demonstration and not an official BrowserOS product.  It is intended solely to showcase the author’s technical abilities and understanding of browser agents.  Use responsibly and at your own risk.
+This repository is a demonstration and not an official BrowserOS product.  It is intended solely to showcase the my technical abilities and understanding of browser agents.  Use responsibly and at your own risk.
